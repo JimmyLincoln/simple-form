@@ -9,7 +9,7 @@ below is an image of what .html looks like before refrencing it to .css for styl
 
 The image shows just the username and password before the client requested for phone number box to be included 
 
-![no-number](.\images\no-number.png)
+![no-number](no-number.png)
 
 here is a skeleton Code Preview For Html
 
